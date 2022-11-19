@@ -87,3 +87,5 @@ Utilities/TestProcessKernel/OC/*
 Utilities/TestProcessKernel/ProcessKernel
 Utilities/TestNtfsDxe/TestNtfsDxe
 Utilities/TestExt4Dxe/TestExt4Dxe
+Releases/*
+.gitignore
